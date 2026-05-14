@@ -12,7 +12,7 @@
 
 &nbsp;
 
-<sub><img width="20px" alt="1148418552504782958" src="https://github.com/user-attachments/assets/d8a42494-cbee-47a5-b166-f02765a3e60d" /> ㅤㅤsign ㅤ新book</sub>
+<sub> ۶ৎ , <img width="16px" alt="1148418552504782958" src="https://github.com/user-attachments/assets/d8a42494-cbee-47a5-b166-f02765a3e60d" /> ㅤㅤsignㅤ新book</sub>
 
 
 
