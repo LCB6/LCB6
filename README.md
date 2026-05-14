@@ -12,7 +12,8 @@
 
 &nbsp;
 
-<img width="66px" alt="picasion com_lL3t" src="https://github.com/user-attachments/assets/1c2b3712-690e-4b46-989a-aea371747033" />
+<img width="100px" alt="picasion com_lL3z" src="https://github.com/user-attachments/assets/ace5e9a3-5f6d-414e-8d3e-577904343668" />
+
 
 &nbsp;
 
