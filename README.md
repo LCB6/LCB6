@@ -7,5 +7,5 @@
 
 <div align="center">
 
-<sub>${{\color{#8b2231}{\textsf{ i'll show you myself... how daguanyuan has been purged}}}}$</sub>
+<sub>${\text{\color{bdbbb5} i'll show you myself... how daguanyuan has been purged \color</sub>
 
