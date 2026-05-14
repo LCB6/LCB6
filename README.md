@@ -12,6 +12,11 @@
 
 &nbsp;
 
+<img width="66px" alt="picasion com_lL3t" src="https://github.com/user-attachments/assets/1c2b3712-690e-4b46-989a-aea371747033" />
+
+&nbsp;
+
+
 <sub> ${{\color{#af0117}{\textsf{۶ৎ}}}}$ㅤ𓏼 ㅤㅤ<img width="17px" alt="53906651e4a58bb99bb19c9d937d13d35ee1ba81" src="https://github.com/user-attachments/assets/df0d3411-26d2-42d6-a69d-c941ed15d828" />
  ㅤㅤsign ㅤ༝ ㅤ<a href="https://idioteque.atabook.org/">新book</a></sub>
 
