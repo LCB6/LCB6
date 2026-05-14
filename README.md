@@ -7,4 +7,5 @@
 
 <div align="center">
 
-<sub>${{\color{#8b2231}{i'll show you myself... how daguanyuan has been purged}}}$</sub>
+<sub>${{\color{#8b2231}{\textsf{ i'll show you myself... how daguanyuan has been purged}}}}$</sub>
+
