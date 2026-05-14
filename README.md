@@ -13,7 +13,7 @@
 
 𓏼ㅤㅤㅤ.ㅤㅤㅤㅤ
 
-<img width="800" height="226" alt="The_Lord_of_Hongyuan_Hong_Lu_Acquisition_Video-ezgif com-optimize" src="https://github.com/user-attachments/assets/36073c4e-e22f-4f4c-bbd8-c63026a3a969" />
+<img width="260px" alt="The_Lord_of_Hongyuan_Hong_Lu_Acquisition_Video-ezgif com-optimize" src="https://github.com/user-attachments/assets/36073c4e-e22f-4f4c-bbd8-c63026a3a969" />
 
 
 
