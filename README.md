@@ -7,4 +7,4 @@
 
 <div align="center">
 
-<sub>i'll show you myself... how ${{{\textsf\color{#8b2231} daguanyuan }}$ has been purged} <br>
+<sub>i'll show you myself... how ${{{\textsf{\color{#8b2231} daguanyuan }}$ has been purged} <br>
