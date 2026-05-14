@@ -18,7 +18,7 @@
 &nbsp;
 
 
-<sub> ${{\color{#af0117}{۶ৎ}}}}$ㅤ𓏼 ㅤㅤ<img width="17px" alt="53906651e4a58bb99bb19c9d937d13d35ee1ba81" src="https://github.com/user-attachments/assets/df0d3411-26d2-42d6-a69d-c941ed15d828" />
+<sub> ${{\color{#af0117}۶ৎ}}}}$ㅤ𓏼 ㅤㅤ<img width="17px" alt="53906651e4a58bb99bb19c9d937d13d35ee1ba81" src="https://github.com/user-attachments/assets/df0d3411-26d2-42d6-a69d-c941ed15d828" />
  ㅤㅤsign ㅤ༝ ㅤ<a href="https://idioteque.atabook.org/">新book</a></sub>
 
 
