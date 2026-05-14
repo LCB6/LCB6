@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<sub>${\text{\color{#676767} i'llㅤshowㅤyouㅤmyself ...ㅤhowㅤdaguanyuanㅤhasㅤbeenㅤpurged }}$ <br>
+<sub>${\text{\color{#676767} “ㅤㅤi'llㅤshowㅤyouㅤmyself ...ㅤhowㅤdaguanyuanㅤhasㅤbeenㅤpurgedㅤㅤ” }}$ <br>
 
 &nbsp;
 
