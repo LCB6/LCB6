@@ -1,3 +1,4 @@
+<img width="112" height="112" alt="Limbus Company Sticker" src="https://github.com/user-attachments/assets/fe0891b8-e653-483d-849e-a9f1ae4cbfb4" />
 
 &nbsp;&nbsp;&nbsp;
 
@@ -16,7 +17,6 @@
 
 &nbsp;
 
- <img width="100px" alt="picasion com_lL3z" src="https://github.com/user-attachments/assets/ace5e9a3-5f6d-414e-8d3e-577904343668" />
-
+ <img width="100px" alt="picasion com_lL3z" src="https://github.com/user-attachments/assets/ace5e9a3-5f6d-414e-8d3e-577904343668" /> <img width="90px" alt="Limbus Company Sticker" src="https://github.com/user-attachments/assets/b0f9dd7c-9f9e-4782-8292-9b621deb42b2" />
 
 
